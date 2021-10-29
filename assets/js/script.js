@@ -83,10 +83,6 @@ const listMovies = [{
 var movieModal = document.getElementById("movieModal");
 var span = document.getElementsByClassName("close-modal")[0];
 
-/*
-    This code is really BAD. I will fix it later.
-*/
-
 function kin(movieModal) {
     let kin = listMovies[0];
     document.getElementById("poster").src = kin.img;
