@@ -1,10 +1,10 @@
 ## GDSC-ITB Task ListMovie
 
-Tugas GDSC ITB (Front-End Web 1) by Abdul Ghany At-Tirmidzi from Univ. Muhammadiyah Bandung.
+Tugas GDSC ITB (Front-End Web 1) oleh Abdul Ghany At-Tirmidzi dari Univ. Muhammadiyah Bandung.
 
 ### About 
 
-Website ini menampilkan list movie yang diambil dari IMDB. Fitur yang dibuat adalah daftar movie dan modal untuk detail dari film seperti Genre, Rating, dan Description.
+Website ini menampilkan list movie. Data list movie dibuat sendiri menggunakan JS yang bersumber dari IMDB. Fitur yang dibuat adalah daftar movie dan modal untuk detail dari film seperti Genre, Rating, dan Description.
 
 ### Screenshot
 
